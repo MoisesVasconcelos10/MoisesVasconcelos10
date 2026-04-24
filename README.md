@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Moises%20Vasconcelos&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20Cybersecurity%20Specialist&descAlignY=61&descAlign=62" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Moises%20Vasconcelos&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20e%20Cybersecurity&descAlignY=61&descAlign=62" />
+
   
   <br />
   
